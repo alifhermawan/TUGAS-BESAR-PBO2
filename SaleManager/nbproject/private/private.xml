@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SaleManager/src/edu/javu/salemanager/impl/SepatuDaoImpl.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SaleManager/src/edu/javu/salemanager/entity/Sepatu.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SaleManager/src/edu/javu/salemanager/service/SepatuDao.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SaleManager/src/edu/javu/salemanager/model/SepatuModel.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SaleManager/src/edu/javu/salemanager/view/SepatuView.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SaleManager/src/edu/javu/salemanager/main/SaleManager.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SaleManager/src/edu/javu/salemanager/database/SaleManagerDatabase.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SaleManager/src/edu/javu/salemanager/model/TabelSepatuModel.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SaleManager/src/edu/javu/salemanager/event/SepatuListener.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SaleManager/src/edu/javu/salemanager/error/SepatuException.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SaleManager/src/edu/javu/salemanager/controller/SepatuController.java</file>
+        </group>
+    </open-files>
+</project-private>
